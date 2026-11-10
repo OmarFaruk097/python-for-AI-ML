@@ -1,0 +1,25 @@
+s.id,class_level,subject,study_hours,test_score,week,attendence_rate,gender,hostel,tshirt_size
+1,Level 1,Mathematics,2.5,68,1,85,Female,Yes,M
+2,Level 2,English,3,75,1,92,Male,No,L
+3,Level 1,Physics,1.5,59,2,78,Female,Yes,S
+4,Level 3,Computer Science,4,88,2,96,Male,No,XL
+5,Level 2,Biology,2,71,3,88,Female,No,M
+6,Level 4,Mathematics,5,94,3,98,Male,Yes,L
+7,Level 3,Chemistry,3.5,82,4,91,Female,No,M
+8,Level 1,English,1,55,4,72,Male,Yes,S
+9,Level 4,Computer Science,4.5,91,5,97,Female,Yes,XL
+10,Level 2,Physics,2.8,73,5,86,Male,No,L
+11,Level 3,Biology,3.2,79,6,90,Female,No,M
+12,Level 4,Chemistry,4.2,86,6,94,Male,Yes,XXL
+13,Level 1,Mathematics,2.2,64,7,81,Female,No,S
+14,Level 2,English,1.8,62,7,83,Male,Yes,M
+15,Level 3,Computer Science,5.5,96,8,99,Female,Yes,L
+16,Level 4,Physics,3.8,84,8,93,Male,No,XL
+17,Level 1,Chemistry,2.7,70,9,87,Female,Yes,M
+18,Level 2,Biology,4.8,92,9,96,Male,No,L
+19,Level 3,Mathematics,3.1,78,10,89,Female,No,S
+20,Level 4,English,2.4,69,10,84,Male,Yes,XL
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
